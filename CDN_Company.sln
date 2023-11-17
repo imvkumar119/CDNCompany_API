@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CDN_Company", "CDN_Company.csproj", "{D65D300E-1288-429F-AA31-500C4CA15401}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperData", "..\DapperData\DapperData.csproj", "{F7D82FFE-CD89-41AA-8A76-4983741B4587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDN_UI", "..\CDN_UI\CDN_UI.csproj", "{372FB099-523A-42B5-A65D-880AAF6DBA4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D65D300E-1288-429F-AA31-500C4CA15401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65D300E-1288-429F-AA31-500C4CA15401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65D300E-1288-429F-AA31-500C4CA15401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65D300E-1288-429F-AA31-500C4CA15401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D82FFE-CD89-41AA-8A76-4983741B4587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D82FFE-CD89-41AA-8A76-4983741B4587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D82FFE-CD89-41AA-8A76-4983741B4587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D82FFE-CD89-41AA-8A76-4983741B4587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{372FB099-523A-42B5-A65D-880AAF6DBA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372FB099-523A-42B5-A65D-880AAF6DBA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372FB099-523A-42B5-A65D-880AAF6DBA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372FB099-523A-42B5-A65D-880AAF6DBA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A32C298C-C596-4C91-96F2-61323650726E}
+	EndGlobalSection
+EndGlobal
